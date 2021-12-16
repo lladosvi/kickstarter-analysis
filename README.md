@@ -7,7 +7,7 @@ The purpose of the analysis is to help Louise understand how different crowdfund
 
 First we looked at crowdfunding results based on launch date. We first we bucketed the data by monht based on launch dates, to the create a summary of how many projects have been succesful , failed and canceled by month. In order to make the analysis more relevant to Louise we then focused mainly on Theater projects by filtering this summary by that Parent Category. Finally we created a line graph to visualize the analysis and draw conclusions. Final graph attached below:
 
-!(https://github.com/lladosvi/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![First Graph](https://github.com/lladosvi/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 
