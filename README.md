@@ -26,10 +26,14 @@ One of the main difficulties we found in this analysis was with the use of COUNT
 
 *Analysis #1 - Conclusion #1*
 
-When looking at the graph is easy to identify the peak in the year for succesful projects for the Theater Category with May being the largest count and June being the second largest. But when looking in more detail those months also seem to be peaks for the failed counts and thus the total number of projects. So before jumping into quick conclusions we realized is worth digging deeper and adding a % of succesfull projects to the summary table (see updated table below). When doing this we now can conclude that may and june are not only the 2 best months based on counf of succesful projects but also based on percent 0f succesfull projetcs. May is the higherst at 67% and June follows at 65% with the average of the year being at 61%. So this is good information for Louis to know if at this point she can manage the launch date, those months are the best two based on the analysis we have done starting to decline earlier or later in the year.
+When looking at the graph is easy to identify the peak in the year for succesful projects for the theater category with May being the largest count and June being the second largest. But when looking in more detail those months also seem to be peaks for the failed counts and thus the total number of projects. So before jumping into quick conclusions we realized is worth digging deeper and adding a % of succesfull projects to the summary table (see updated table below). When doing this we now can conclude that may and june are not only the 2 best months based on count of succesful projects but also based on percent of succesfull projetcs. May is the higherst at 67% and June follows at 65% with the average of the year being at 61%. So this is good information for Louis to know if at this point she can manage the launch date, those months are the best two based on the analysis we have done with success ratios starting to decline earlier or later in the year.
 
 ![image](https://user-images.githubusercontent.com/96096924/146431954-3a4e8ae5-cf34-4509-bcd1-f9b0452d2d64.png)
 
 *Analysis #1 - Conclusion #2*
 
 The next thing we want to look at to help Louis is the opposite of the above is what monhts she should be trying to avoid even if she cannot launch in may and june. To draw this conclusion we are going to look again to the graph and the summary table above. For this we can approach it from 2 diffrent angles, first and the more simplistic is to look at the chart and based on absolute succesful counts and on a high level looking at peaks and valleys in the graph you want generally avoid before april and after august, so in other words heading into and in the summer is probably the best shot. To draw more precise conclusions we want to look at the summary table and look at what months are below average for % of succesful projects. In doind that I would say avoid January, August, October and December. 
+
+*Analysis #2 - Conclusion #1*
+
+
