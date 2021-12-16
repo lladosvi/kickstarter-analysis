@@ -28,5 +28,7 @@ One of the main difficulties we found in this analysis was with the use of COUNT
 
 When looking at the graph is easy to identify the peak in the year for succesful projects for the Theater Category with May being the largest count and June being the second largest. But when looking in more detail those months also seem to be peaks for the failed counts and thus the total number of projects. So before jumping into quick conclusions we realized is worth digging deeper and adding a % of succesfull projects to the summary table (see updated table below). When doing this we now can conclude that may and june are not only the 2 best months based on counf of succesful projects but also based on percent 0f succesfull projetcs. May is the higherst at 67% and June follows at 65% with the average of the year being at 61%. So this is good information for Louis to know if at this point she can manage the launch date, those months are the best two based on the analysis we have done starting to decline earlier or later in the year.
 
-![image](https://user-images.githubusercontent.com/96096924/146431551-03347b5a-05ac-4ea0-b167-3c7bcd27b27d.png)
+![image](https://user-images.githubusercontent.com/96096924/146431954-3a4e8ae5-cf34-4509-bcd1-f9b0452d2d64.png)
+
+*Analysis #1 - Conclusion #2*
 
