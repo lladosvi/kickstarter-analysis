@@ -13,6 +13,8 @@ Secondly we looked at the the crowdfunding results based on the size of the goal
 
 ![Second Graph](https://github.com/lladosvi/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
+One of the main difficulties we found in this analysis was with the use of COUNTIFS and testing for errors. When we started the 3rd column with the results for canceled projects, we got 0 for the first bucket and then 0 for any other bucket. That seemed strange we were not sure if that was the and error in the formula or what was not working. So to validate if all these 0s were valid or something was wrong we went back to data and filtered by plays and then by canceled to find out there were no datapoints or intersection to be found under this criteria. Sp this way we validated the formula was working properly and )s was the real outcome. Otherwise the process to get to both graphs was very straightforward.
 
+**Results**
 
 
