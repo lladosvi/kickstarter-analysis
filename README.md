@@ -36,4 +36,10 @@ The next thing we want to look at to help Louis is the opposite of the above is 
 
 *Analysis #2 - Conclusion #1*
 
+Now we are look at drawing conclusions on success factor associated with the size of the goal. I think we can do this looking both at the 2nd graph and the table used to create this graph, and to keep it simple will look at success % as looking at failures is exactly the inverse. Again will look at peak and valleys and I would say there are 2 clearly marked peaks. First anything under $5,000 seem to have the highest succes rates between 73 and 76%, so in other words the smaller the projects the easier to reach funding goals. Second peak and a bit lower is between $35,000 and $45,000 at 67% but the number of data points in this range is only 9 out of a sample fo more than 1,000. So bottom line my advice and conclusion for Louis would be that the smaller the goal the higher the chances of succeding. 
 
+*Summary of Limitations*
+
+
+
+*Further Analysis Recommendations*
