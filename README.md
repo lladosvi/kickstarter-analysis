@@ -40,9 +40,9 @@ Now we are look at drawing conclusions on success factor associated with the siz
 
 *Summary of Limitations and Further Analysis Recommendations*
 
-One of the main limitations we encountered in the 2nd analysis is that the data is significantly skewed to smaller projects for plays, with data points being more limited in the higher $ ranges. So one way to get more confortable with the conslusion of this analysis would be to expand data set first to the full Theather Category and second to the full population to see if the same observations we have made hold in the larger populations. 
+One of the main limitations we encountered in the 2nd analysis is that the data is significantly skewed to smaller projects for plays, with data points being more limited in the higher $ ranges. So one way to get more comfortable with the conclusion of this analysis would be to expand data set first to the full theather category and second to the full population to see if the same observations we have made hold in the larger or diferent samples. 
 
 Other interesting analysis that could be conducted to see if there are other variables that can help drive success a few examples below:
-- looking at backers count and average donations, seeing if success come from large donations and smaller donations with large counts of indivduals.
-- looking at not only at success but from the angle on by how much did the pledge exceed the goal as a %, and seeing what variables drive that, if category and subcategory, if launch months, is the size of the goal, etc. 
+- looking at backers count and average donations, seeing if success come from large donations or smaller donations with large counts of indivduals.
+- looking at not only success rates but from the angle on by how much did the pledge exceed the goal as a %, and seeing what variables drive that, if category and subcategory, launch months, the size of the goal, etc. 
 
