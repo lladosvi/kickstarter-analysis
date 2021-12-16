@@ -32,3 +32,4 @@ When looking at the graph is easy to identify the peak in the year for succesful
 
 *Analysis #1 - Conclusion #2*
 
+The next thing we want to look at to help Louis is the opposite of the above is what monhts she should be trying to avoid even if she cannot launch in may and june. To draw this conclusion we are going to look again to the graph and the summary table above. For this we can approach it from 2 diffrent angles, first and the more simplistic is to look at the chart and based on absolute succesful counts and on a high level looking at peaks and valleys in the graph you want generally avoid before april and after august, so in other words heading into and in the summer is probably the best shot. To draw more precise conclusions we want to look at the summary table and look at what months are below average for % of succesful projects. In doind that I would say avoid January, August, October and December. 
