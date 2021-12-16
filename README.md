@@ -11,7 +11,7 @@ First we looked at crowdfunding results based on launch date. We bucketed the da
 
 Secondly we looked at the the crowdfunding results based on the size of the goal. We bucketed the projects by goal dollar amount creating ranges every $5,000, to then create a summary of how many projects have been succesful , failed and canceled by each bucket. In order to make the analysis more relevant to Louise we focused mainly on Play project subcategory. Finally we created a line graph to visualize the analysis and draw conclusions. Final graph attached below:
 
-![Second Graph](
+![Second Graph](https://github.com/lladosvi/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 
