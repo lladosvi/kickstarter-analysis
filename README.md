@@ -38,8 +38,11 @@ The next thing we want to look at to help Louis is the opposite of the above is 
 
 Now we are look at drawing conclusions on success factor associated with the size of the goal. I think we can do this looking both at the 2nd graph and the table used to create this graph, and to keep it simple will look at success % as looking at failures is exactly the inverse. Again will look at peak and valleys and I would say there are 2 clearly marked peaks. First anything under $5,000 seem to have the highest succes rates between 73 and 76%, so in other words the smaller the projects the easier to reach funding goals. Second peak and a bit lower is between $35,000 and $45,000 at 67% but the number of data points in this range is only 9 out of a sample fo more than 1,000. So bottom line my advice and conclusion for Louis would be that the smaller the goal the higher the chances of succeding. 
 
-*Summary of Limitations*
+*Summary of Limitations and Further Analysis Recommendations*
 
+One of the main limitations we encountered in the 2nd analysis is that the data is significantly skewed to smaller projects for plays, with data points being more limited in the higher $ ranges. So one way to get more confortable with the conslusion of this analysis would be to expand data set first to the full Theather Category and second to the full population to see if the same observations we have made hold in the larger populations. 
 
+Other interesting analysis that could be conducted to see if there are other variables that can help drive success a few examples below:
+- looking at backers count and average donations, seeing if success come from large donations and smaller donations with large counts of indivduals.
+- looking at not only at success but from the angle on by how much did the pledge exceed the goal as a %, and seeing what variables drive that, if category and subcategory, if launch months, is the size of the goal, etc. 
 
-*Further Analysis Recommendations*
