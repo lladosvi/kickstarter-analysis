@@ -24,4 +24,6 @@ One of the main difficulties we found in this analysis was with the use of COUNT
 
 **Results**
 
+*Analysis #1 - Conclusion #1*
 
+When looking at the graph is easy to identify the peak in the year for succesful projects for the Theater Category with May being the largest count and June being the second largest. But when looking in more detail those months also seem to be peaks for the failed counts
